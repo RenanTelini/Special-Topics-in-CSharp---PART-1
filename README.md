@@ -8,3 +8,4 @@
 - ### <ins>DateTime Operations</ins>
 - ### <ins>String Functions</ins>
 - ### <ins>Switch Case</ins>
+- ### <ins>Ternary Conditional Expression</ins>
