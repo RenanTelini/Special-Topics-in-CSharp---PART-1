@@ -10,3 +10,4 @@
 - ### <ins>Switch Case</ins>
 - ### <ins>Ternary Conditional Expression</ins>
 - ### <ins>TimeSpan Functions</ins>
+- ### <ins>TimeSpan Operations</ins>
