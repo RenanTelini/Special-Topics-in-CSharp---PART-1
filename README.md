@@ -6,3 +6,4 @@
 - ### <ins>DateTime Functions</ins>
 - ### <ins>DateTimeKind and ISO8601</ins>
 - ### <ins>DateTime Operations</ins>
+- ### <ins>String Functions</ins>
